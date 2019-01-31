@@ -1,2 +1,2 @@
 # flutter-demo
-练习flutter
+建议使用vscode进行编译
